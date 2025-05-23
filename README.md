@@ -1,6 +1,6 @@
 # Documentation
 
-This is a personal project. I just need a few non-standard functions.
+This is a personal library. I just need a few non-standard functions. The source code is shared as-is, without support from the author.
 
 ## Functions
 
